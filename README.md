@@ -3,7 +3,7 @@ Understanding the results of an A/B test run by an e-commerce website.
 
 
 
-##Introduction¶
+## Introduction
 
 A/B tests are very commonly performed by data analysts and data scientists. 
 It is important to get some practice working with the difficulties of these. 
